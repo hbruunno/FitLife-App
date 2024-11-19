@@ -29,5 +29,7 @@ nessa tela tem a possibilidade de editar ou excluir os dados dos alunos.
 - **Para o Front-end**: ReactNative, Expo, e bibliotecas como: React Navigation, React Icons e Moment.
 - **Para o Back-end**: Express, Axios, MySQL e Node.js.
 
+## Link para dowload APK:
 
+https://drive.google.com/file/d/13oAoautdDIP5qcASzbxJsllTHnZlAeUa/view?pli=1
 
